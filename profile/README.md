@@ -16,7 +16,7 @@ Meshum is a knowledge management platform that integrates multiple enterprise to
 
 Meshum is currently in development. Interested in learning more?
 
-- Visit our website: [meshum.elixus.be](https://www.meshum.dev)
+- Visit our website: [meshum.dev](https://www.meshum.dev)
 - Join the waitlist to be notified when we launch
 
 ---
